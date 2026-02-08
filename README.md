@@ -123,7 +123,6 @@ The Royal Rebirth Bank public repository exists to:
 
 ---
 
-This README ensures **full clarity, transparency, and compliance** while leaving **no operational or sensitive details exposed**.
-
+This README ensures **full clarity, transparency, and compliance** 
 
 
